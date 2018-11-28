@@ -165,6 +165,10 @@
                 "PV64" : "ami-1ccae774",
                 "HVM64" : "ami-1ecae776"
             },
+	    "us-east-2" : {
+                "PV64": "NOT_SUPPORTED",
+                "HVM64": "ami-f6035893"
+            },
             "us-west-2" : {
                 "PV64" : "ami-ff527ecf",
                 "HVM64" : "ami-e7527ed7"
